@@ -1,0 +1,42 @@
+.logoHead{
+    background-color: rgb(254, 237, 1);
+}
+.navbarRow{
+    padding: 10px;
+}
+
+.myLink{
+    color: black;
+    font-weight: bold;;
+}
+
+.myLink:hover{
+    color: yellowgreen;
+}
+
+.moto{
+    min-height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    background-image: url("https://horizon-media.s3-eu-west-1.amazonaws.com/s3fs-public/field/image/header-kylo-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.myHeadText{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.motoText{
+    color: white;
+    font-weight: bold;
+}
+.description{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.myBtn{
+    border: solid 5px;
+}
